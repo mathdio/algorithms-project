@@ -11,6 +11,12 @@ Some files may have been provided by [Trybe](https://www.betrybe.com) to acceler
 ## 🛠️ Built with
 <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
 
+## 🎯 Used skills
+- Programming logic
+- Problems interpretation
+- Legacy code interpretation
+- Problems optimized resolution
+
 ## 🏁 Getting started
 ### 🐍 Installing Python 3
 You will need Python 3 in order to run the application. You can see how to install it [here](https://wiki.python.org/moin/BeginnersGuide/Download).
