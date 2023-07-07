@@ -1,21 +1,20 @@
-> # :construction: This README is still under construction! :construction:
->
-> Although this README has some solid guidance, more info is yet to be added. The "About this project" section is incomplete, for example.
-
 # 🧩 Algorithms
-developed as a [Trybe](https://www.betrybe.com) Project.
+A bunch of problems resolutions and algorithms optimizations, developed as a [Trybe](https://www.betrybe.com) Project.
 
 ## 💻 About this project
+This project has some algorithm problem solving, about various themes as: anagrams, duplicates, schedules, palindromes and encrypted messages.
+
 Some files may have been provided by [Trybe](https://www.betrybe.com) to accelerate the application development start.
 
 ## 🛠️ Built with
 <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
 
 ## 🎯 Used skills
-- Programming logic
-- Problems interpretation
-- Legacy code interpretation
-- Problems optimized resolution
+- Programming logic;
+- Problems interpretation;
+- Legacy code interpretation;
+- Problems optimized resolution;
+- Software testing.
 
 ## 🏁 Getting started
 ### 🐍 Installing Python 3
